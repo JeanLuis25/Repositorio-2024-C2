@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717984631 source:c:\users\jean luis\documents\programacion para mecatronicos\c2 2024 programacion para mecatronicos\tareas\tares-de-ppm\resumenes\programas\programas capitulo 3\programa 3.10\main.c
+	<stdio.h>
+	<math.h>
+
